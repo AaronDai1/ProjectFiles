@@ -1,5 +1,14 @@
 public class random {
     public static void main(String [] args) {
-        System.out.println("bye");
+        
+        int x = 5; 
+        int y = 10; 
+    
     }
+
+    public static int add(int x, int y) {
+           return x + y; 
+    }
+
+
 }
